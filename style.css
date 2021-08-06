@@ -130,3 +130,28 @@ a:hover{
       top: 100px;
       left: 30px;
   }
+  .sec5div1 img{
+      width: 5%;
+      
+  }
+  .sec5div1{
+      display: flex;
+      margin-left: 250px ;
+      
+     
+  }
+ .image img{
+    width: 50px;
+    height: 50px;     
+     position: relative;
+     top: 3200px;
+     margin-left: 50px;
+     
+     
+ }
+footer p{
+    position: absolute;
+    top: 4050px;
+    left: 580px;
+
+}
