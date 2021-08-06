@@ -1,0 +1,132 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.sec1div1 h1{
+    font-size: 64px;
+    font-weight: 700;
+    position: absolute;
+    color: whitesmoke;
+width: 485px;
+height: 230px;
+left: 156px; 
+top: 207px;
+}
+.Watch-live{
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding: 20px 40px;
+    color: whitesmoke;
+    font-weight: lighter;
+    position: absolute;
+    top: 600px;
+    left: 150px;
+  
+
+}
+.sec1{
+    background-color: rgb(17, 17, 110);
+    height: 800px;
+   
+}
+ .sec1div2 img{
+     width: 556px;
+     height: 438px;
+     position: absolute;
+     top: 250px;
+     left: 733px;
+ }
+
+a:hover{
+    transform: scale(1.15);
+    box-shadow: 10px 10px 40px palevioletred;
+}
+     
+     
+ .players{
+     width: 250px;
+     box-shadow: 10px 10px 30px grey;
+     padding: 10px;
+     border-radius: 5px;
+ }
+ .players p{
+     font-size: 10px;
+     font-weight: 100;
+     color: gray;
+ }
+ .players img{
+     width: 95%;
+     padding-left: 5px;
+ }
+ .sec2{
+     display: grid;
+     grid-template-columns: repeat(3, 1fr);
+     grid-row-gap:50px;
+     position: absolute;
+     left: 200px;
+     column-gap: 70px;
+     margin-top: 70px;     
+
+ }
+ .players:hover{
+     transform: scale(1.25);
+     box-shadow: 6px 6px 30px gray;
+ }
+ .sec1div1 p{
+     position: absolute;
+     top: 530px;
+     left: 150px;
+ }
+
+ .sec3div1{
+     text-align: justify;
+     width: 466px;
+     height: 309px;
+     position: absolute;
+     top: 2700px;
+     left: 180px ;
+
+ }
+
+ .sec3div1 h1{
+     font-size: 40px;
+     font-weight: 900;
+ }
+
+ .sec3div2 img{
+     width: 450px;
+     height: 320px;
+     position: absolute;
+     top: 2800px;
+     right: 200px;
+ }
+  .Watch-live2{
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding: 20px 40px;
+    color: whitesmoke;
+    font-weight: lighter;
+    position: relative;
+    top: 20px;
+    border-radius: 10px;
+ 
+  }
+  .sec4{
+      display: flex;
+      position: absolute;
+      top: 3250px;
+      left: 150px;
+  }
+  .sec5 img{
+      position: absolute;
+      top: 3800px;
+      left: 200px;
+      justify-content: center;
+
+  }
+  .sec4div2{
+      width: 40%;
+      position: relative;
+      top: 100px;
+      left: 30px;
+  }
