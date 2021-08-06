@@ -117,7 +117,7 @@ a:hover{
       top: 3250px;
       left: 150px;
   }
-  .sec5 img{
+  .sec5div1{
       position: absolute;
       top: 3800px;
       left: 200px;
@@ -130,28 +130,16 @@ a:hover{
       top: 100px;
       left: 30px;
   }
-  .sec5div1 img{
-      width: 5%;
+  .link img{
+      width: 40px;
+      margin-left: 50px;
+      margin-top: 3200px;
       
   }
-  .sec5div1{
-      display: flex;
-      margin-left: 250px ;
-      
-     
+  .link{
+      margin-left: 470px;
   }
- .image img{
-    width: 50px;
-    height: 50px;     
-     position: relative;
-     top: 3200px;
-     margin-left: 50px;
-     
-     
- }
-footer p{
-    position: absolute;
-    top: 4050px;
-    left: 580px;
-
+ 
+.sec5div3{
+    margin-left: 600px;
 }
